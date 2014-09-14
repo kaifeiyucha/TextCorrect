@@ -1,0 +1,7 @@
+port=8989
+cache=../data/cache.txt
+DicEn=../data/DicEn.txt
+DicCh=../data/DicCh.txt
+cachenum=5
+queueSize=1000
+poolSize=100
